@@ -8,7 +8,7 @@
  * 
  * Voor bijde apps moet een unique key aangemaakt worden. Als je de key hebt aangemaakt
  * via de websites hierboven, vul die dan in hieronder in waar nu sterretjes *********** staan
- * op regel 88 en 103 in dit bestand.
+ * op regel 90 en 103 in dit bestand.
  * 
  *******
  * Aanwijzingen om deze code in DSMRloggerAPI.ino te integreren:
